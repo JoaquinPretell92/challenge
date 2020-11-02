@@ -75,3 +75,14 @@ El script utiliza los siguiente parametros:
 Se pondra un ejemplo de cada caso en el siguiente parrafo
 
 ```
+###Utilizando CREATE, DESTROY y OUTPUT
+---
+```bash
+1. Cuando utilicemos CREATE para el script se necesitara definir variables para el uso de este, EJEMPLO:
+
+Colocar la credencial del usuario:
+
+challenge-294120-065283266c79.json
+
+2. Para el uso de DESTROY y OUTPUT no sera necesario definir ninguna variable.
+```
