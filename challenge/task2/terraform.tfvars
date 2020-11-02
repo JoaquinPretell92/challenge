@@ -1,0 +1,8 @@
+ubication               = "us-central1"
+project                 = "challenge-294120"
+credencial              = "challenge-294120-065283266c79.json"
+name                    = "centos"
+machine_type            = "n1-standard-1"
+zone                    = "us-central1-a"
+image                   = "centos-cloud/centos-7"
+startup_script          = "/mnt/c/Users/pc/Desktop/challenge/task2/jenkins.sh"
