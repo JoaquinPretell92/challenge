@@ -25,7 +25,7 @@ node_count              = 1 (Cantidad de nodos del pool.)
 # Desarrollo de la imagen docker
 ---
 ```bash
-En la carpeta imagen se encuentran los archivos Dockerfile, mypythonapp.py y requeriments.txt, los cuales se utilizaron para desarrollar la aplicacion. 
+En la carpeta imagen se encuentran los archivos Dockerfile, mypythonapp.py y requeriments.txt, los cuales se utilizaron para desarrollar de la aplicacion. 
 ```
 # Archivo mypythonapp.yaml
 ---
