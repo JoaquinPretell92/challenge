@@ -48,6 +48,10 @@ Archivo yaml para despliegue de aplicacion:
 
 mypythonapp.yaml
 
+Nombre del ingress controller
+
+nginx-ingress-challenge
+
 2. Para el uso de DESTROY y OUTPUT no sera necesario definir ninguna variable.
 ```
 
