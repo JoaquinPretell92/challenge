@@ -23,7 +23,6 @@ image                   = "centos-cloud/centos-7" (Sistema operativo instalado e
 
 startup_script          = "/mnt/c/Users/pc/Desktop/challenge/task2/jenkins.sh" (Ruta del archivo startup_script.)
 
-**Tener en cuenta que las siguientes variables no intervienen en las variables del script.**
 ```
 # Desarrollo de la instalacion de Jenkins Mediante Ansible Playbooks
 ---
