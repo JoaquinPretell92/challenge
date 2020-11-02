@@ -21,7 +21,6 @@ initial_node_count      = 1 (Cantida de nodos que despliega el recurso.)
 
 node_count              = 1 (Cantidad de nodos del pool.)
 
-**Tener en cuenta que las siguientes variables no intervienen en las variables del script.**
 ```
 # Desarrollo de la imagen docker
 ---
