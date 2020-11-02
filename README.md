@@ -36,7 +36,7 @@ Colocar el codigo del proyecto:
 
 challenge-294120
 
-Nombre del Kubernete:
+Nombre del Kubernete: ##Mismo nombre definido en el archivo terraform.tfvars
 
 challenge
 
